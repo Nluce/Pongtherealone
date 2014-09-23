@@ -1,0 +1,15 @@
+Pong by Navarre Luce
+
+This version of pong is a 2 player game.
+
+The first player to reach 11 points is the winner!
+
+The ball will be served to the player 
+who won the last round.
+
+
+Instructions
+Player 1 uses the "W" and "S" keys to move the paddle, and player 2 uses
+the up and down arrow keys.
+
+Use the indicated keys to navigate the menus.
